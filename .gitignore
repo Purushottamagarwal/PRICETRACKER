@@ -1,0 +1,7 @@
+.env
+data/tracker.sqlite3
+data/tracker.sqlite3-shm
+data/tracker.sqlite3-wal
+__pycache__/
+*.pyc
+.venv/
