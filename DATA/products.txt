@@ -1,0 +1,1 @@
+# Optional local fallback: one public Flipkart product URL per line.
